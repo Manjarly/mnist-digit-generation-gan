@@ -1,6 +1,6 @@
 # PyTorch Generative Adversarial Network (GAN) for MNIST
 
-This repository contains a Jupyter Notebook (`assignment3_problem2.ipynb`) that implements a simple Generative Adversarial Network (GAN) from scratch. The network is trained on the MNIST dataset to generate new, synthetic images of handwritten digits.
+This repository contains a Jupyter Notebook (`GAN_for_MNIST.ipynb`) that implements a simple Generative Adversarial Network (GAN) from scratch. The network is trained on the MNIST dataset to generate new, synthetic images of handwritten digits.
 
 ## 🚀 Project Overview
 
