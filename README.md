@@ -69,7 +69,7 @@ The models are trained for **100 epochs**. In each epoch, two steps occur:
     ```bash
     jupyter notebook
     ```
-3.  Open the `assignment3_problem2.ipynb` file.
+3.  Open the `GAN_for_MNIST.ipynb` file.
 4.  Run the cells sequentially from top to bottom. The notebook will:
     * Download the MNIST dataset.
     * Initialize the `Generator` and `Discriminator` models.
